@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CHZClass
+namespace ComplexTwo
 {
     //Задание 1. б) Дописать класс Complex, добавив методы вычитания и произведения чисел. Проверить работу класса; + задание из методички. Владимир Болбат.
     class Complex
