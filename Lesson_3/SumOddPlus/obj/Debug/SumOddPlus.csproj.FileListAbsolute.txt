@@ -1,0 +1,7 @@
+F:\GBrains\С#\Lesson_3\Lesson_3\SumOddPlus\obj\Debug\SumOddPlus.csprojAssemblyReference.cache
+F:\GBrains\С#\Lesson_3\Lesson_3\SumOddPlus\obj\Debug\SumOddPlus.csproj.CoreCompileInputs.cache
+F:\GBrains\С#\Lesson_3\Lesson_3\SumOddPlus\bin\Debug\SumOddPlus.exe.config
+F:\GBrains\С#\Lesson_3\Lesson_3\SumOddPlus\bin\Debug\SumOddPlus.exe
+F:\GBrains\С#\Lesson_3\Lesson_3\SumOddPlus\bin\Debug\SumOddPlus.pdb
+F:\GBrains\С#\Lesson_3\Lesson_3\SumOddPlus\obj\Debug\SumOddPlus.exe
+F:\GBrains\С#\Lesson_3\Lesson_3\SumOddPlus\obj\Debug\SumOddPlus.pdb

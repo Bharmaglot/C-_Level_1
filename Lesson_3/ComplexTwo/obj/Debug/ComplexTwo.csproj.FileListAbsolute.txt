@@ -1,0 +1,7 @@
+F:\GBrains\С#\Lesson_3\Lesson_3\ComplexTwo\bin\Debug\ComplexTwo.exe.config
+F:\GBrains\С#\Lesson_3\Lesson_3\ComplexTwo\bin\Debug\ComplexTwo.exe
+F:\GBrains\С#\Lesson_3\Lesson_3\ComplexTwo\bin\Debug\ComplexTwo.pdb
+F:\GBrains\С#\Lesson_3\Lesson_3\ComplexTwo\obj\Debug\ComplexTwo.csprojAssemblyReference.cache
+F:\GBrains\С#\Lesson_3\Lesson_3\ComplexTwo\obj\Debug\ComplexTwo.csproj.CoreCompileInputs.cache
+F:\GBrains\С#\Lesson_3\Lesson_3\ComplexTwo\obj\Debug\ComplexTwo.exe
+F:\GBrains\С#\Lesson_3\Lesson_3\ComplexTwo\obj\Debug\ComplexTwo.pdb
