@@ -1,0 +1,7 @@
+F:\GBrains\С#\Lesson_3\Lesson_3\Fraction\bin\Debug\Fraction.exe.config
+F:\GBrains\С#\Lesson_3\Lesson_3\Fraction\bin\Debug\Fraction.exe
+F:\GBrains\С#\Lesson_3\Lesson_3\Fraction\bin\Debug\Fraction.pdb
+F:\GBrains\С#\Lesson_3\Lesson_3\Fraction\obj\Debug\Fraction.csprojAssemblyReference.cache
+F:\GBrains\С#\Lesson_3\Lesson_3\Fraction\obj\Debug\Fraction.csproj.CoreCompileInputs.cache
+F:\GBrains\С#\Lesson_3\Lesson_3\Fraction\obj\Debug\Fraction.exe
+F:\GBrains\С#\Lesson_3\Lesson_3\Fraction\obj\Debug\Fraction.pdb
