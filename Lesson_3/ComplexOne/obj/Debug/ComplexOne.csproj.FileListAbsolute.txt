@@ -1,6 +1,0 @@
-F:\GBrains\С#\Lesson_3\Lesson_3\ComplexOne\bin\Debug\ComplexOne.exe.config
-F:\GBrains\С#\Lesson_3\Lesson_3\ComplexOne\bin\Debug\ComplexOne.exe
-F:\GBrains\С#\Lesson_3\Lesson_3\ComplexOne\bin\Debug\ComplexOne.pdb
-F:\GBrains\С#\Lesson_3\Lesson_3\ComplexOne\obj\Debug\ComplexOne.csproj.CoreCompileInputs.cache
-F:\GBrains\С#\Lesson_3\Lesson_3\ComplexOne\obj\Debug\ComplexOne.exe
-F:\GBrains\С#\Lesson_3\Lesson_3\ComplexOne\obj\Debug\ComplexOne.pdb
