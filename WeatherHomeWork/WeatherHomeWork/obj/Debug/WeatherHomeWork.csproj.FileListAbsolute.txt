@@ -1,0 +1,10 @@
+F:\GBrains\С#\Lesson_8\WeatherHomeWork\WeatherHomeWork\obj\Debug\WeatherHomeWork.csprojAssemblyReference.cache
+F:\GBrains\С#\Lesson_8\WeatherHomeWork\WeatherHomeWork\obj\Debug\WeatherHomeWork.Form1.resources
+F:\GBrains\С#\Lesson_8\WeatherHomeWork\WeatherHomeWork\obj\Debug\WeatherHomeWork.Properties.Resources.resources
+F:\GBrains\С#\Lesson_8\WeatherHomeWork\WeatherHomeWork\obj\Debug\WeatherHomeWork.csproj.GenerateResource.cache
+F:\GBrains\С#\Lesson_8\WeatherHomeWork\WeatherHomeWork\obj\Debug\WeatherHomeWork.csproj.CoreCompileInputs.cache
+F:\GBrains\С#\Lesson_8\WeatherHomeWork\WeatherHomeWork\bin\Debug\WeatherHomeWork.exe.config
+F:\GBrains\С#\Lesson_8\WeatherHomeWork\WeatherHomeWork\bin\Debug\WeatherHomeWork.exe
+F:\GBrains\С#\Lesson_8\WeatherHomeWork\WeatherHomeWork\bin\Debug\WeatherHomeWork.pdb
+F:\GBrains\С#\Lesson_8\WeatherHomeWork\WeatherHomeWork\obj\Debug\WeatherHomeWork.exe
+F:\GBrains\С#\Lesson_8\WeatherHomeWork\WeatherHomeWork\obj\Debug\WeatherHomeWork.pdb
