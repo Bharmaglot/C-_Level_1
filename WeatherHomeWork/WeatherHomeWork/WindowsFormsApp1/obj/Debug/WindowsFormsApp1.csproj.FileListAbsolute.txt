@@ -1,0 +1,10 @@
+F:\GBrains\С#\Lesson_8\WeatherHomeWork\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\GBrains\С#\Lesson_8\WeatherHomeWork\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\GBrains\С#\Lesson_8\WeatherHomeWork\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\GBrains\С#\Lesson_8\WeatherHomeWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\GBrains\С#\Lesson_8\WeatherHomeWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\GBrains\С#\Lesson_8\WeatherHomeWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\GBrains\С#\Lesson_8\WeatherHomeWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\GBrains\С#\Lesson_8\WeatherHomeWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\GBrains\С#\Lesson_8\WeatherHomeWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\GBrains\С#\Lesson_8\WeatherHomeWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

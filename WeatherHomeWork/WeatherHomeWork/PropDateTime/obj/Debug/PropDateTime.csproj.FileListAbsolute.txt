@@ -1,0 +1,7 @@
+F:\GBrains\С#\Lesson_8\WeatherHomeWork\PropDateTime\bin\Debug\PropDateTime.exe.config
+F:\GBrains\С#\Lesson_8\WeatherHomeWork\PropDateTime\bin\Debug\PropDateTime.exe
+F:\GBrains\С#\Lesson_8\WeatherHomeWork\PropDateTime\bin\Debug\PropDateTime.pdb
+F:\GBrains\С#\Lesson_8\WeatherHomeWork\PropDateTime\obj\Debug\PropDateTime.csproj.CoreCompileInputs.cache
+F:\GBrains\С#\Lesson_8\WeatherHomeWork\PropDateTime\obj\Debug\PropDateTime.exe
+F:\GBrains\С#\Lesson_8\WeatherHomeWork\PropDateTime\obj\Debug\PropDateTime.pdb
+F:\GBrains\С#\Lesson_8\WeatherHomeWork\PropDateTime\obj\Debug\PropDateTime.csprojAssemblyReference.cache
