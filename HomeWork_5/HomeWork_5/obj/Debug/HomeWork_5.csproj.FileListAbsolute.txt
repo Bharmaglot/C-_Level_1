@@ -13,3 +13,7 @@ F:\GBrains\C#2\Lesson_5\HomeWork\HomeWork_5\HomeWork_5\obj\Debug\HomeWork_5.cspr
 F:\GBrains\C#2\Lesson_5\HomeWork\HomeWork_5\HomeWork_5\obj\Debug\HomeWork_5.csproj.CoreCompileInputs.cache
 F:\GBrains\C#2\Lesson_5\HomeWork\HomeWork_5\HomeWork_5\obj\Debug\HomeWork_5.exe
 F:\GBrains\C#2\Lesson_5\HomeWork\HomeWork_5\HomeWork_5\obj\Debug\HomeWork_5.pdb
+f:\GBrains\C#2\Lesson_5\HomeWork\HomeWork_5\HomeWork_5\obj\Debug\WinEditDep.g.cs
+f:\GBrains\C#2\Lesson_5\HomeWork\HomeWork_5\HomeWork_5\obj\Debug\WinEditDep.baml
+f:\GBrains\C#2\Lesson_5\HomeWork\HomeWork_5\HomeWork_5\obj\Debug\profileWin.g.cs
+f:\GBrains\C#2\Lesson_5\HomeWork\HomeWork_5\HomeWork_5\obj\Debug\profileWin.baml

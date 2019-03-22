@@ -15,7 +15,7 @@
             <ColumnDefinition Width="1*"/>
             <ColumnDefinition Width="1*"/>
         </Grid.ColumnDefinitions>
-        
+
         <ListView x:Name="EmployeeCollectList"
                   HorizontalAlignment="Left"
                   Height="259" 
@@ -33,9 +33,9 @@
 
         <ComboBox x:Name="DepartCollectList"
                   HorizontalAlignment="Left" 
-                  Margin="10,10,0,0" 
+                  Margin="0,10,0,0" 
                   VerticalAlignment="Top" 
-                  Width="376"
+                  Width="386"
                   Grid.Column="0"
             SelectedIndex="0"
             SelectionChanged="cmdDept_SelectionChanged">
@@ -46,7 +46,23 @@
                     <TextBlock Text="{Binding DepName}"/>
                 </DataTemplate>
             </ComboBox.ItemTemplate>
-        </ComboBox> 
+        </ComboBox>
+        <Button 
+         x:Name="EditBtn"   
+         Content="Удаление департамента"
+         Click="Button_Click"
+         HorizontalAlignment="Left" 
+         Margin="0,52,0,0" 
+         VerticalAlignment="Top" 
+         Width="386" 
+         Height="35"/>
+        
+        <Button Content="Изменить департамент" 
+         HorizontalAlignment="Left" 
+         Margin="0,92,0,0"
+         VerticalAlignment="Top" 
+         Width="386" 
+         Height="38"/>
 
     </Grid>
 </Window>

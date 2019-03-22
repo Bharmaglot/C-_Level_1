@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Diagnostics;
 
 namespace HomeWork_5
 {
@@ -25,18 +26,23 @@ namespace HomeWork_5
         {
             InitializeComponent();
 
-            data = new BaseEmp(5, 100);
+            data = new BaseEmp(10, 100);
 
             this.DataContext = data;
+            EditBtn.Click += delegate
+            {
+                Debug.WriteLine((DepartCollectList.SelectedItem as Department).DepNumb);
+                new WinEditDep((DepartCollectList.SelectedItem as Department).DepNumb, data).ShowDialog();
+            };
 
-            // DepEditBtn.Click += delegate
-            // {            }
-
-            //EmployeeCollectList.MouseDoubleClick += EmployeeCollectList_MouseDoubleClick;
+            EmployeeCollectList.MouseDoubleClick += EmployeeCollectList_MouseDoubleClick;
         }
 
-        //private void EmployeeCollectList_MouseDoubleClick(object sender, MouseButtonEventArgs e)
-        //{        }
+        private void EmployeeCollectList_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+        {
+            new profileWin(
+                data.EmployeesBase.IndexOf((EmployeeCollectList.SelectedItem as Employee)), data).ShowDialog();
+        }
 
         private void cmdDept_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
