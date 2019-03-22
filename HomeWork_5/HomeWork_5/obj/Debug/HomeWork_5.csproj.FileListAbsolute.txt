@@ -1,0 +1,15 @@
+F:\GBrains\C#2\Lesson_5\HomeWork\HomeWork_5\HomeWork_5\bin\Debug\HomeWork_5.exe.config
+F:\GBrains\C#2\Lesson_5\HomeWork\HomeWork_5\HomeWork_5\bin\Debug\HomeWork_5.exe
+F:\GBrains\C#2\Lesson_5\HomeWork\HomeWork_5\HomeWork_5\bin\Debug\HomeWork_5.pdb
+F:\GBrains\C#2\Lesson_5\HomeWork\HomeWork_5\HomeWork_5\obj\Debug\HomeWork_5.csprojAssemblyReference.cache
+F:\GBrains\C#2\Lesson_5\HomeWork\HomeWork_5\HomeWork_5\obj\Debug\MainWindow.g.cs
+F:\GBrains\C#2\Lesson_5\HomeWork\HomeWork_5\HomeWork_5\obj\Debug\App.g.cs
+F:\GBrains\C#2\Lesson_5\HomeWork\HomeWork_5\HomeWork_5\obj\Debug\HomeWork_5_MarkupCompile.cache
+F:\GBrains\C#2\Lesson_5\HomeWork\HomeWork_5\HomeWork_5\obj\Debug\HomeWork_5_MarkupCompile.lref
+F:\GBrains\C#2\Lesson_5\HomeWork\HomeWork_5\HomeWork_5\obj\Debug\MainWindow.baml
+F:\GBrains\C#2\Lesson_5\HomeWork\HomeWork_5\HomeWork_5\obj\Debug\HomeWork_5.g.resources
+F:\GBrains\C#2\Lesson_5\HomeWork\HomeWork_5\HomeWork_5\obj\Debug\HomeWork_5.Properties.Resources.resources
+F:\GBrains\C#2\Lesson_5\HomeWork\HomeWork_5\HomeWork_5\obj\Debug\HomeWork_5.csproj.GenerateResource.cache
+F:\GBrains\C#2\Lesson_5\HomeWork\HomeWork_5\HomeWork_5\obj\Debug\HomeWork_5.csproj.CoreCompileInputs.cache
+F:\GBrains\C#2\Lesson_5\HomeWork\HomeWork_5\HomeWork_5\obj\Debug\HomeWork_5.exe
+F:\GBrains\C#2\Lesson_5\HomeWork\HomeWork_5\HomeWork_5\obj\Debug\HomeWork_5.pdb
